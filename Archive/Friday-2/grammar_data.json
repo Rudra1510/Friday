@@ -1,0 +1,23 @@
+{"data":{
+        "sub":["i","we","you","he","she","it","they"],
+        "obj":["me","us","her","it","him","them"],
+        "possessive":["my","our","your","her","his","their"],
+        "reflexive":["myself","yourself","herself","himself","itself","ourselves","yourselves","themselves"],
+        "indefinite":["all", "another", "any", "anybody", "anyone", "anything", "both", 
+            "each", "either", "everybody", "everyone", "everything", "few", "many", "most", 
+            "neither", "nobody", "none", "no one", "nothing", "one", "other", "others", 
+            "several", "some", "somebody", "someone", "something", "such"],
+        "demonstrative":["such","that","these","this","those"],
+        "interrogative":["what", "whatever", "which", "whichever", "who", "whoever", "whom", "whomever", "whose"],
+        "helping_verbs":["is", "am", "are",
+                 "was", "were ",
+                 "will", "shall", "would", "should",
+                 "have", "has", "had",
+                 "do", "does", "did",
+                 "be", "being", "been",
+                 "may", "might", "must",
+                 "can", "could"],
+        "articles":["a","an","the"]
+        }
+    
+}

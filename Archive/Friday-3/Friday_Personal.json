@@ -1,0 +1,85 @@
+{
+    "questions":{
+        "what":{
+            "my":{
+                "name"  : "Rudra Barot",
+                "first name" : "Rudra",
+                "middle name" : "Vishal",
+                "last name" : "Barot",
+                "bday"  : "15 Oct, 2004",
+                "birthday"  : "15 Oct, 2004",
+                "bdate" : "15.10.2004",
+                "birthdate" : "15.10.2004",
+                "email" : "rudrabarot2015@gmail.com",
+                "personal email": "Rudrabarot2015@gmail.com",
+                "work email": "Therudrabarot@gmail.com",
+                "phone" : 9023967037
+                    },
+            "your":{
+                "name" : "Friday",
+                "bday" : "15 Oct, 2004",
+                "birthday" : "15 Oct, 2004",
+                "purpose" : "My purpose is to provide anything and everything you want, I can."
+                    }
+        },
+        "who":{
+            "my":{
+                "mother" : "Hema Barot",
+                "mom" : "Hema Barot",
+                "father" : "Vishal Barot",
+                "dad" : "Vishal Barot",
+                "sister" : "Shakshi Barot"
+            },
+            "your":{
+                "boss":"Rudra Barot",
+                "creator" : "Rudra Barot",
+                "programmer" : "Rudra Barot",
+                "father" : "Rudra Barot",
+                "daddy" : "Rudra Barot"
+            }
+        },
+        "when":{
+            "my":{
+                "birthday":"15 Oct, 2004"
+            },
+            "your":{
+                "birthday":"15 Oct, 2004"
+            }
+        },
+        "where":{
+            "my":{
+                "house":"Isanpur, Ahmedabad",
+                "laptop":"That's probably in front of you.",
+                "dick":"In my Ass."
+            },
+            "your":{
+                "ass":"On your lap."
+            },
+            "you":{
+                "live":"I live in my Boss's computer.",
+                "":"In my Boss's omputer."
+            }
+        }
+    },
+    "grammar":{
+        "sub":["i","we","you","he","she","it","they"],
+        "obj":["me","us","her","it","him","them"],
+        "possessive":["my","our","your","her","his","their"],
+        "reflexive":["myself","yourself","herself","himself","itself","ourselves","yourselves","themselves"],
+        "indefinite":["all", "another", "any", "anybody", "anyone", "anything", "both", 
+            "each", "either", "everybody", "everyone", "everything", "few", "many", "most", 
+            "neither", "nobody", "none", "no one", "nothing", "one", "other", "others", 
+            "several", "some", "somebody", "someone", "something", "such"],
+        "demonstrative":["such","that","these","this","those"],
+        "interrogative":["what", "whatever", "which", "whichever", "who", "whoever", "whom", "whomever", "whose"],
+        "helping_verbs":["is", "am", "are",
+                 "was", "were ",
+                 "will", "shall", "would", "should",
+                 "have", "has", "had",
+                 "do", "does", "did",
+                 "be", "being", "been",
+                 "may", "might", "must",
+                 "can", "could"],
+        "articles":["a","an","the"]
+        }
+}
