@@ -160,10 +160,7 @@
             },
             "your": {
                 "boss": "Rudra Barot",
-                "creator": "Rudra Barot",
                 "programmer": "Rudra Barot",
-                "father": "Rudra Barot",
-                "daddy": "Rudra Barot"
             }
         },
         "when": {
@@ -178,14 +175,12 @@
             "my": {
                 "house": "Isanpur, Ahmedabad",
                 "laptop": "That's probably in front of you.",
-                "dick": "In my Ass."
             },
             "your": {
-                "ass": "On your lap."
             },
             "you": {
                 "live": "I live in my Boss's computer.",
-                "": "In my Boss's omputer."
+                "": "In my Boss's computer."
             }
         }
     },
