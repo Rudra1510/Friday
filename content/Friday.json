@@ -138,49 +138,24 @@
                 "birthday": "15 Oct, 2004",
                 "bdate": "15.10.2004",
                 "birthdate": "15.10.2004",
-                "email": "rudrabarot2015@gmail.com",
-                "personal email": "Rudrabarot2015@gmail.com",
-                "work email": "Therudrabarot@gmail.com",
-                "phone": 9023967037
+                "email": "401",
+                "personal email": "401",
+                "work email": "401",
+                "phone": "401"
             },
             "your": {
-                "name": "Friday",
-                "bday": "15 Oct, 2004",
-                "birthday": "15 Oct, 2004",
-                "purpose": "My purpose is to provide anything and everything you want, I can."
+                "name": "Friday"
             }
         },
         "who": {
-            "my": {
-                "mother": "Hema Barot",
-                "mom": "Hema Barot",
-                "father": "Vishal Barot",
-                "dad": "Vishal Barot",
-                "sister": "Shakshi Barot"
-            },
             "your": {
-                "boss": "Rudra Barot",
-                "programmer": "Rudra Barot",
+                "author": "Rudra Barot",
+                "programmer": "Rudra Barot"
             }
         },
         "when": {
             "my": {
                 "birthday": "15 Oct, 2004"
-            },
-            "your": {
-                "birthday": "15 Oct, 2004"
-            }
-        },
-        "where": {
-            "my": {
-                "house": "Isanpur, Ahmedabad",
-                "laptop": "That's probably in front of you.",
-            },
-            "your": {
-            },
-            "you": {
-                "live": "I live in my Boss's computer.",
-                "": "In my Boss's computer."
             }
         }
     },
